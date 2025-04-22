@@ -1,7 +1,7 @@
 steps:
   - name: gcr.io/cloud-builders/gcloud
     entrypoint: bash
-    args: ["-c", "echo 'Normal Tests'"]
+    args: ["-c", "echo 'Testing Normal Test-380496944'"]
 
 options:
   logging: CLOUD_LOGGING_ONLY
