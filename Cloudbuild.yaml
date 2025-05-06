@@ -1,7 +1,7 @@
 steps:
   - name: gcr.io/cloud-builders/gcloud
     entrypoint: bash
-    args: ['-c', 'Testing Normal Test-380496944']
+    args: ['-c', 'Testing Normal Test-Falcon']
 
 options:
   logging: CLOUD_LOGGING_ONLY
